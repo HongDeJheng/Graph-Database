@@ -52,7 +52,9 @@ Goal
   * Course History Visualization
     * According to user's history course record, we attempt to let user check what courses they took before conviniently.  
       Visualize the history course can make it very helpful.  
-      ![course history visualization](./tmp/visualization.png)
+      ![course history visualization](./tmp/graph_visulization.png)
+## Demo
+![Demo](./tmp/demo.gif)
 ## Contribution
 * Data Collection
   * Raw Data
